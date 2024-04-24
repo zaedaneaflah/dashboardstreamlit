@@ -1,14 +1,14 @@
 # Dashboard Streamlit
 
-Ini adalah aplikasi dashboard Streamlit sederhana yang menampilkan visualisasi data sepeda menggunakan dataset yang disediakan.
+Ini adalah aplikasi dashboard streamlit sederhana untuk memenuhi tugas yang ada pada program dicoding, dashboard ini menampilkan visualisasi data sepeda menggunakan data set yang sudah disediaka program.
 
 ## Deskripsi
 
-Aplikasi ini dibuat dengan menggunakan Streamlit, sebuah alat open-source untuk membuat aplikasi web data-driven dengan mudah menggunakan Python. Aplikasi ini membaca dataset sepeda dari file CSV, melakukan analisis data sederhana, dan menampilkan visualisasi interaktif.
+Aplikasi dibuat dengan streamlit, yaitu aplikasi open-source yang biasa digunakan untuk membuat aplikasi web data-driven dengan mudah menggunakan pemrograman bahasa python. Aplikasi ini akan membaca dataset dari file csv yang sudah disimpan, kemudian data tersebut dianalisis secara sederhana, dan ditampilkan dalam bentuk visualisasi data.
 
 ## Penggunaan
 
-1. Pastikan Anda memiliki Python dan pip terinstal di komputer Anda.
+1. Pastikan memiliki bahasa pemrograman Python dan pip terinstal di komputer Anda.
 2. Clone repositori ini ke komputer Anda.
 3. Instal dependensi dengan menjalankan perintah `pip install -r requirements.txt`.
 4. Jalankan aplikasi dengan perintah `streamlit run streamlit_app.py`.
@@ -21,17 +21,5 @@ Aplikasi ini dibuat dengan menggunakan Streamlit, sebuah alat open-source untuk 
 - `new_day.csv`: Dataset sepeda yang telah dimodifikasi atau disimpan ulang.
 - `requirements.txt`: Daftar dependensi Python yang diperlukan.
 
-## Kontribusi
 
-Kontribusi terbuka untuk perbaikan bug, peningkatan fitur, atau perbaikan dokumentasi. Silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori
-2. Buat cabang fitur (`git checkout -b fitur/fitur-baru`)
-3. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`)
-4. Push ke cabang (`git push origin fitur/fitur-baru`)
-5. Buat permintaan tarik baru
-
-## Lisensi
-
-Ditulis oleh [Nama Anda]. Lisensi proyek ini ditentukan oleh [Lisensi Anda]. Lihat file `LISENSI` untuk detail lebih lanjut.
 
